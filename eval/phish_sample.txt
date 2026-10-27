@@ -1,0 +1,11 @@
+# SYNTHETIC examples only, to test the pipeline. Replace with a PhishTank pull for the real evaluation.
+https://paypa1.com/login
+https://paypal-secure-login.xyz/verify
+http://192.168.4.5/cbe/login
+https://cbe-birr-login.com.et/
+https://awashbamk.com/
+https://secure-telebirr-update.top/account/verify
+https://faceb00k.com/login
+https://microsoft-office365-signin.net/
+http://bit.ly/xyz
+https://accounts-google.login-verify.example.org/signin

@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Demo: pre-click link scanning</title>
+<style>body{font-family:Arial,sans-serif;max-width:600px;margin:50px auto;padding:0 16px}li{margin:14px 0}</style></head>
+<body><h1>Hover over each link (do not click)</h1>
+<p>A message you might receive in webmail or a chat web client:</p>
+<ul>
+<li><a href="https://paypa1.com/login">Confirm your PayPal payment</a> (look-alike, expect Dangerous)</li>
+<li><a href="https://awashbamk.com/">Awash Bank statement</a> (typo, expect Suspicious or Dangerous)</li>
+<li><a href="http://cbe-birr-login.com.et/verify">CBE Birr account update</a> (brand inside another domain)</li>
+<li><a href="http://192.168.4.5/cbe/login">Bank login</a> (raw IP address)</li>
+<li><a href="https://www.paypal.com/signin">Real PayPal sign in</a> (official, expect no tooltip)</li>
+<li><a href="https://en.wikipedia.org/wiki/Phishing">Wikipedia: Phishing</a> (expect no tooltip)</li>
+</ul></body></html>

@@ -1,0 +1,414 @@
+{
+  "_note": "Local entries were checked against the institutions' official websites on 2026-10-26 by the project author. International brands are well-known official domains.",
+  "entries": [
+    {
+      "brand": "Commercial Bank of Ethiopia",
+      "category": "bank",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "cbe.com.et"
+      ],
+      "keywords": [
+        "cbe",
+        "commercial bank of ethiopia",
+        "cbe birr"
+      ]
+    },
+    {
+      "brand": "Awash Bank",
+      "category": "bank",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "awashbank.com"
+      ],
+      "keywords": [
+        "awash",
+        "awash bank"
+      ]
+    },
+    {
+      "brand": "Dashen Bank",
+      "category": "bank",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "dashenbanksc.com"
+      ],
+      "keywords": [
+        "dashen",
+        "dashen bank"
+      ]
+    },
+    {
+      "brand": "Bank of Abyssinia",
+      "category": "bank",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "bankofabyssinia.com"
+      ],
+      "keywords": [
+        "abyssinia",
+        "bank of abyssinia"
+      ]
+    },
+    {
+      "brand": "Ethio telecom / telebirr",
+      "category": "mobile_money",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "ethiotelecom.et"
+      ],
+      "keywords": [
+        "telebirr",
+        "ethio telecom",
+        "ethiotelecom"
+      ]
+    },
+    {
+      "brand": "Safaricom Ethiopia / M-PESA",
+      "category": "mobile_money",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "safaricom.et"
+      ],
+      "keywords": [
+        "safaricom",
+        "m-pesa",
+        "mpesa"
+      ]
+    },
+    {
+      "brand": "Ethiopian Airlines",
+      "category": "travel",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "ethiopianairlines.com"
+      ],
+      "keywords": [
+        "ethiopian airlines",
+        "ethiopianairlines"
+      ]
+    },
+    {
+      "brand": "Ethiopian Revenues and Customs Authority",
+      "category": "government",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "erca.gov.et"
+      ],
+      "keywords": [
+        "erca",
+        "ethiopian revenues"
+      ]
+    },
+    {
+      "brand": "INSA",
+      "category": "government",
+      "local": true,
+      "verified": true,
+      "domains": [
+        "insa.gov.et"
+      ],
+      "keywords": [
+        "insa"
+      ]
+    },
+    {
+      "brand": "PayPal",
+      "category": "payments",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "paypal.com"
+      ],
+      "keywords": [
+        "paypal"
+      ]
+    },
+    {
+      "brand": "Google",
+      "category": "webmail",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "google.com",
+        "gmail.com"
+      ],
+      "keywords": [
+        "google",
+        "gmail"
+      ]
+    },
+    {
+      "brand": "Microsoft",
+      "category": "webmail",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "microsoft.com",
+        "live.com",
+        "outlook.com",
+        "office.com"
+      ],
+      "keywords": [
+        "microsoft",
+        "outlook",
+        "office365"
+      ]
+    },
+    {
+      "brand": "Facebook",
+      "category": "social",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "facebook.com"
+      ],
+      "keywords": [
+        "facebook"
+      ]
+    },
+    {
+      "brand": "Instagram",
+      "category": "social",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "instagram.com"
+      ],
+      "keywords": [
+        "instagram"
+      ]
+    },
+    {
+      "brand": "Telegram",
+      "category": "social",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "telegram.org",
+        "t.me"
+      ],
+      "keywords": [
+        "telegram"
+      ]
+    },
+    {
+      "brand": "Apple",
+      "category": "tech",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "apple.com",
+        "icloud.com"
+      ],
+      "keywords": [
+        "apple",
+        "icloud"
+      ]
+    },
+    {
+      "brand": "Amazon",
+      "category": "retail",
+      "local": false,
+      "verified": true,
+      "domains": [
+        "amazon.com"
+      ],
+      "keywords": [
+        "amazon"
+      ]
+    }
+  ],
+  "amharic_phrases": [
+    {
+      "text": "መለያዎ ታግዷል",
+      "meaning": "your account has been blocked/suspended",
+      "kind": "threat"
+    },
+    {
+      "text": "አካውንትዎ ታግዷል",
+      "meaning": "your account has been blocked",
+      "kind": "threat"
+    },
+    {
+      "text": "ሂሳብዎ ታግዷል",
+      "meaning": "your (bank) account has been blocked",
+      "kind": "threat"
+    },
+    {
+      "text": "መለያዎ ይዘጋል",
+      "meaning": "your account will be closed",
+      "kind": "threat"
+    },
+    {
+      "text": "ወዲያውኑ",
+      "meaning": "immediately",
+      "kind": "urgency"
+    },
+    {
+      "text": "በአስቸኳይ",
+      "meaning": "urgently",
+      "kind": "urgency"
+    },
+    {
+      "text": "እንኳን ደስ አለዎት",
+      "meaning": "congratulations",
+      "kind": "prize"
+    },
+    {
+      "text": "ሽልማት አሸንፈዋል",
+      "meaning": "you have won a prize",
+      "kind": "prize"
+    },
+    {
+      "text": "እድለኛ ሆነዋል",
+      "meaning": "you have become a winner (lucky)",
+      "kind": "prize"
+    },
+    {
+      "text": "የገንዘብ ሽልማት",
+      "meaning": "cash prize",
+      "kind": "prize"
+    },
+    {
+      "text": "ጉርሻ",
+      "meaning": "bonus",
+      "kind": "bonus"
+    },
+    {
+      "text": "ነፃ ኢንተርኔት",
+      "meaning": "free internet",
+      "kind": "bonus"
+    },
+    {
+      "text": "ነጻ ኢንተርኔት",
+      "meaning": "free internet (alternate spelling)",
+      "kind": "bonus"
+    },
+    {
+      "text": "ያረጋግጡ",
+      "meaning": "verify/confirm (plural, polite)",
+      "kind": "verify"
+    },
+    {
+      "text": "ሂሳብዎን ያረጋግጡ",
+      "meaning": "verify your account",
+      "kind": "verify"
+    },
+    {
+      "text": "የይለፍ ቃል",
+      "meaning": "password",
+      "kind": "credential"
+    },
+    {
+      "text": "የይለፍ ቃልዎን ያስገቡ",
+      "meaning": "enter your password",
+      "kind": "credential"
+    },
+    {
+      "text": "የሚስጥር ቁጥር",
+      "meaning": "secret number / PIN",
+      "kind": "credential"
+    },
+    {
+      "text": "ሊንኩን ይጫኑ",
+      "meaning": "click the link",
+      "kind": "action"
+    }
+  ],
+  "english_phrases": [
+    {
+      "text": "account suspended",
+      "kind": "threat"
+    },
+    {
+      "text": "account has been locked",
+      "kind": "threat"
+    },
+    {
+      "text": "your account will be closed",
+      "kind": "threat"
+    },
+    {
+      "text": "your account has been limited",
+      "kind": "threat"
+    },
+    {
+      "text": "failure to verify",
+      "kind": "threat"
+    },
+    {
+      "text": "final notice",
+      "kind": "threat"
+    },
+    {
+      "text": "act now",
+      "kind": "urgency"
+    },
+    {
+      "text": "within 24 hours",
+      "kind": "urgency"
+    },
+    {
+      "text": "you have won",
+      "kind": "prize"
+    },
+    {
+      "text": "claim your prize",
+      "kind": "prize"
+    },
+    {
+      "text": "you have been selected",
+      "kind": "prize"
+    },
+    {
+      "text": "claim your reward",
+      "kind": "prize"
+    },
+    {
+      "text": "free airtime",
+      "kind": "bonus"
+    },
+    {
+      "text": "free data bonus",
+      "kind": "bonus"
+    },
+    {
+      "text": "telebirr bonus",
+      "kind": "bonus"
+    },
+    {
+      "text": "verify your account",
+      "kind": "verify"
+    },
+    {
+      "text": "confirm your identity",
+      "kind": "verify"
+    },
+    {
+      "text": "update your payment information",
+      "kind": "verify"
+    },
+    {
+      "text": "unusual activity",
+      "kind": "verify"
+    },
+    {
+      "text": "enter your pin",
+      "kind": "credential"
+    },
+    {
+      "text": "one-time code",
+      "kind": "credential"
+    }
+  ],
+  "_phrase_note": "Kinds: threat/urgency/prize/bonus are 'pressure' phrases and drive the score; verify/credential/action are context only (common on legitimate pages). Amharic phrases were written for this project and must be checked by a native speaker; spelling variants (e.g. ነፃ/ነጻ) need separate entries."
+}

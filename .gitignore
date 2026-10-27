@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vscode/
+# Evaluation datasets are large and have their own terms of use: download them yourself (see README)
+verified_online*.csv
+online-valid*
+top-1m*
+*.zip

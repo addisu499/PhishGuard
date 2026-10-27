@@ -1,0 +1,9 @@
+# Benign sample (replace/extend with Tranco + local institutional sites)
+https://www.paypal.com/signin
+https://cbe.com.et/
+https://www.google.com/
+https://github.com/
+https://en.wikipedia.org/wiki/Phishing
+https://www.ethiopianairlines.com/
+https://news.ycombinator.com/
+https://example.com/
