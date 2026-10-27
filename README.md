@@ -71,7 +71,6 @@ How to read this honestly:
 - The page-content layer is verified by unit tests and demo pages, not on a large sample of real pages.
 - Not covered: SMS, voice calls, USSD and native apps (important channels in Ethiopia).
 
-Run the evaluation yourself (datasets are not included; download them and put the CSV files next to `evaluate.py`):
 
 ```powershell
 python evaluate.py --phishtank-csv verified_online.csv --tranco-csv top-1m.csv --n 500 --seed 1 --sweep
